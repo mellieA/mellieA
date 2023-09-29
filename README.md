@@ -15,4 +15,5 @@ I write cookbook-style tutorials that anyone can follow to learn how things work
 The Grafana community is a welcoming place to learn in public, share interesting use cases, and help each other create solutions!
 
 ❓ Check out the [Community Forum](https://community.grafana.com/?plcmt=learn-nav) where you can ask questions, share your expertise, and find new ways to use the Grafana stack.
+
 🧑‍🤝‍🧑 Chat with other community members in [slack](https://grafana.slack.com/archives/C05675Y4F).
