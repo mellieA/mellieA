@@ -4,7 +4,7 @@ I'm a developer advocate and community builder at [Grafana Labs](https://grafana
 
 # Tutorials
 
-I like to write cookbook-style tutorials that anyone can follow to learn how things work.
+I write cookbook-style tutorials that anyone can follow to learn how things work.
 
 📖 [Grafana: Create alerts with your logs](https://grafana.com/tutorials/create-alerts-with-logs/)
 
