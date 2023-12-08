@@ -1,6 +1,6 @@
 ## 🌻 About me
 
-I'm a developer advocate and community builder at [Grafana Labs](https://grafana.com/community/champions/?plcmt=learn-nav). I enjoy bringing people together to talk about what they're working on and to facilitate knowledge sharing. I've worked in infrastructure, many flavors of virtualization and containers, and supporting developers as they do exciting things with software for a while now. 
+I'm a developer advocate and community builder. I enjoy bringing people together to talk about what they're working on and to facilitate knowledge sharing. I've worked in infrastructure, many flavors of virtualization and containers, and supporting developers as they do exciting things with software for a while now. 
 
 ### Tutorials
 
